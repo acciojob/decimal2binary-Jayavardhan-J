@@ -1,4 +1,4 @@
-function decimalToBinary(7) {
+function decimalToBinary(num) {
   
 	let n = num, ans="";
 	while(n!==0){
